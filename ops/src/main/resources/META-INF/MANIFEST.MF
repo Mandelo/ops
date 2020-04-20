@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Main-Class: com.fly.ops.OpsApplication
+Agent-Class: com.fly.ops.agent.MyAgent
+
